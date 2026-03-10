@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "旅人と夏果て",
+  "base_artist": "hasumi",
+  "createdAt": "2026-03-10T14:10:52.612009Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旅人と夏果て (feat. IA)",
+      "artist": "hasumi",
+      "has_synced": false,
+      "path": "select/pl_01_旅人と夏果て_(feat._IA)_hasumi.txt"
+    }
+  ]
+}
